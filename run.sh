@@ -1,1 +1,1 @@
-python main.py --events events.csv --queries queries.csv --out results.csv
+python3 src/main.py --market-events data/canned/market_events.csv --simulated-events data/canned/simulated_events.csv --out results.csv

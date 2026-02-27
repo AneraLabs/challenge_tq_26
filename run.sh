@@ -1,0 +1,1 @@
+python main.py --events events.csv --queries queries.csv --out results.csv
